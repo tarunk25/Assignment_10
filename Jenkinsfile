@@ -1,6 +1,6 @@
 pipeline{
   environment{
-    reg = "tarunk25/assignment10"
+    reg = "tarunk25/poee"
     regCre = "docker_id"
     dockerImg = ""
   }
